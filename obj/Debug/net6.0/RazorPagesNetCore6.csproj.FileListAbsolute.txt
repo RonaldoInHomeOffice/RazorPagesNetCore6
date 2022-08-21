@@ -24,3 +24,30 @@ C:\Users\Administrador\source\repos\RazorPagesNetCore6\RazorPagesNetCore6\obj\De
 C:\Users\Administrador\source\repos\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.pdb
 C:\Users\Administrador\source\repos\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.genruntimeconfig.cache
 C:\Users\Administrador\source\repos\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\ref\RazorPagesNetCore6.dll
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\bin\Debug\net6.0\appsettings.Development.json
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\bin\Debug\net6.0\appsettings.json
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\bin\Debug\net6.0\package-lock.json
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\bin\Debug\net6.0\RazorPagesNetCore6.staticwebassets.runtime.json
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\bin\Debug\net6.0\RazorPagesNetCore6.exe
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\bin\Debug\net6.0\RazorPagesNetCore6.deps.json
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\bin\Debug\net6.0\RazorPagesNetCore6.runtimeconfig.json
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\bin\Debug\net6.0\RazorPagesNetCore6.dll
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\bin\Debug\net6.0\RazorPagesNetCore6.pdb
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.csproj.AssemblyReference.cache
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.GeneratedMSBuildEditorConfig.editorconfig
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.AssemblyInfoInputs.cache
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.AssemblyInfo.cs
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.csproj.CoreCompileInputs.cache
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.MvcApplicationPartsAssemblyInfo.cache
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.RazorAssemblyInfo.cache
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.RazorAssemblyInfo.cs
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\staticwebassets.build.json
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\staticwebassets.development.json
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\scopedcss\bundle\RazorPagesNetCore6.styles.css
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\scopedcss\projectbundle\RazorPagesNetCore6.bundle.scp.css
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.dll
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\refint\RazorPagesNetCore6.dll
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.pdb
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\RazorPagesNetCore6.genruntimeconfig.cache
+E:\00-PROJETOS\.NET CORE\RazorPagesNetCore6\RazorPagesNetCore6\obj\Debug\net6.0\ref\RazorPagesNetCore6.dll

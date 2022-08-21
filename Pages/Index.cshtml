@@ -1,13 +1,122 @@
 ﻿@page
 @model IndexModel
 @{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Bem Vindos!!!!</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div id="content">
 
-    
+    <div class="row">
+        <article class="col-xs-12 col-md-12">
+
+            <header>
+                <span id="widget-icon"><i class="fa fa-list-alt"></i></span>
+                <h2>
+                    Perfil
+                </h2>
+            </header>
+            <form>
+
+                <div id="conteudo">
+                    <div class="col-xs-12 col-md-12">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <label for="nome">Nome</label>
+                                <input id="nome" type="text" class="form-control">
+                            </div>
+                            <div class="col-md-4">
+                                <label for="sobre-nome">Sobre Nome</label>
+                                <input id="sobre-nome" type="text" class="form-control">
+                            </div>
+                            <div class="col-md-4">
+                                <label for="cpf">Cpf</label>
+                                <input id="cpf" type="text" class="form-control">
+                            </div>
+                        </div>
+                        <br />
+                        <div class="row">
+                            <div class="col-md-4">
+                                <label for="telefone">Telefone</label>
+                                <input type="text" id="telefone" class="form-control">
+                            </div>
+                            <div class="col-md-4">
+                                <label for="celular">Celular</label>
+                                <input type="text" id="celular" class="form-control">
+                            </div>
+                            <div class="col-md-4">
+                                <label for="email">Email</label>
+                                <input type="text" id="email" class="form-control">
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label for="cep">CEP</label>
+                            <input type="text" id="cep" class="form-control">
+                        </div>
+                        <div class="col-md-10">
+                            <label for="logradouro">Endereço</label>
+                            <input type="text" id="logradouro" class="form-control">
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-4">
+                            <label for="bairro">Bairro</label>
+                            <input type="text" id="bairro" class="form-control">
+                        </div>
+                        <div class="col-md-4">
+                            <label for="cidade">Cidade</label>
+                            <input type="text" id="cidade" class="form-control">
+                        </div>
+                        <div class="col-md-4">
+                            <label for="uf">Estado</label>
+                            <input type="text" id="uf" class="form-control">
+                        </div>
+                    </div>
+
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="row margin-bottom-5">
+                            <div class="pull-right margin-right-10">
+                                <a class="btn btn-lg btn-primary"> Salvar</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+
+            <br /><br />
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Nome</th>
+                        <th scope="col">Cpf</th>
+                        <th scope="col">Celuar</th>
+                        <th scope="col">Cep</th>
+                        <th scope="col">Acão</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <th>Ronaldo César</th>
+                        <th>326.789.098-09</th>
+                        <th>(13) 91234-5678</th>
+                        <th>01001-000</th>
+                        <th><a href="" class="btn btn-sm btn-primary">Editar</a></th>
+                    </tr>
+                </tbody>
+            </table>
+
+
+
+        </article>
+    </div>
 
 </div>

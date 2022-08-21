@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XzILuGUw7of1gL+Zo86B7K+nJ06KB8SSdyxvOtQrdAg0pZ+HmsrQRTubFf57WVtOf7r+O+4H8mYkkE8PyWRe2g==",
+  "dgSpecHash": "S90lDngq0KobXqdHoJqProD+vbUlf7qSY8ZK+okTOWRnu0inBVZfU7dUExLFYKXVEEDHFjIgNE/Hgdx0z2KM7w==",
   "success": true,
-  "projectFilePath": "E:\\00-PROJETOS\\.NET CORE\\RazorPagesNetCore6\\RazorPagesNetCore6\\RazorPagesNetCore6.csproj",
+  "projectFilePath": "E:\\00-PROJETOS\\.NET CORE\\RazorPagesNetCore6\\razorpagesnetcore6\\RazorPagesNetCore6.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
