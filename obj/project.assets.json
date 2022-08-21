@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\source\\repos\\RazorPagesNetCore6\\RazorPagesNetCore6\\RazorPagesNetCore6.csproj",
+      "projectUniqueName": "E:\\00-PROJETOS\\.NET CORE\\RazorPagesNetCore6\\RazorPagesNetCore6\\RazorPagesNetCore6.csproj",
       "projectName": "RazorPagesNetCore6",
-      "projectPath": "C:\\Users\\Administrador\\source\\repos\\RazorPagesNetCore6\\RazorPagesNetCore6\\RazorPagesNetCore6.csproj",
+      "projectPath": "E:\\00-PROJETOS\\.NET CORE\\RazorPagesNetCore6\\RazorPagesNetCore6\\RazorPagesNetCore6.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\source\\repos\\RazorPagesNetCore6\\RazorPagesNetCore6\\obj\\",
+      "outputPath": "E:\\00-PROJETOS\\.NET CORE\\RazorPagesNetCore6\\RazorPagesNetCore6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
